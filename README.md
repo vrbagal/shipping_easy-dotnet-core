@@ -1,4 +1,4 @@
-# ShippingEasy.NET
+# ShippingEasy.Core
 .NET client for ShippingEasy API
 
 ## Installation
@@ -6,7 +6,7 @@
 Search for 'ShippingEasy' with the NuGet Package Manager in Visual Studio, or install via the NuGet Package Manager Console:
 
 ```
-PM> Install-Package ShippingEasy
+PM> Install-Package ShippingEasy.Core
 ```
 
 If you do not wish to use NuGet, you can download the assembly from the GitHub releases page.
